@@ -1,4 +1,4 @@
-#CodeRunner.in
+
 import numpy as np
 
 ROWS=6
